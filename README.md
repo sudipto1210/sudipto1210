@@ -1,16 +1,118 @@
-## Hi there 👋
+# Hi there 👋 I'm Sudipto Banerjee
 
-<!--
-**vulnerable4u/vulnerable4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student;Application+Security+Enthusiast;Backend+Developer;DevSecOps+Learner\&center=true\&width=500\&height=50)
 
-Here are some ideas to get you started:
+🔐 Cybersecurity-focused Computer Science undergraduate from India
+💻 Backend Developer passionate about building **secure and resilient systems**
+⚔️ Active learner in **Application Security, Ethical Hacking and DevSecOps**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🎓 B.Tech CSE (Cybersecurity) — Techno Main Salt Lake, Kolkata
+* 🔐 Interested in **Application Security & Secure Backend Design**
+* 🧠 Hack The Box Global Rank ~ **#955**
+* 🛠 Currently learning **DevSecOps & Container Security**
+* 🌱 Exploring **Cloud Security and Threat Modeling**
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Programming
+
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![C](https://skillicons.dev/icons?i=c)
+![Java](https://skillicons.dev/icons?i=java)
+![Bash](https://skillicons.dev/icons?i=bash)
+
+### ⚙️ Backend
+
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://skillicons.dev/icons?i=aws)
+![GCP](https://skillicons.dev/icons?i=gcp)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Git](https://skillicons.dev/icons?i=git)
+![Linux](https://skillicons.dev/icons?i=linux)
+
+### 🛡 Cybersecurity Tools
+
+Burp Suite • Nmap • Wireshark • Splunk
+
+### 🗄 Databases
+
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+---
+
+## 📂 Projects
+
+### 🔐 SecurePrint
+
+A **privacy-first secure printing platform** for public print shops.
+
+Features:
+
+* One-Time Code (OTC) document retrieval
+* Client-side **AES-256-GCM encryption**
+* Secure backend APIs for upload and access control
+* Automatic file deletion after printing
+* Designed using **threat-driven security architecture**
+
+---
+
+### 🚨 Women Safety Application
+
+Backend architecture built using **Flask**.
+
+Features:
+
+* SOS emergency trigger
+* Real-time location sharing
+* Emergency contact notifications
+* Google OAuth authentication
+* Deployed using **Gunicorn + PostgreSQL (Supabase)**
+
+---
+
+## 🏆 Achievements
+
+* 🧠 **Hack The Box — Global Rank #955**
+* 🛡 Completed **Practical Ethical Hacking — TCM Security**
+* ☁️ **Google Cloud Skills Boost labs**
+* 🌍 Hult Prize participant
+
+---
+
+## 📊 GitHub Stats
+
+![Sudipto's GitHub stats](https://github-readme-stats.vercel.app/api?username=vulnerable4u\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vulnerable4u\&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vulnerable4u\&theme=tokyo-night)
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/sudipto-banerjee-722614257
+* 📧 Email: [banerjeesudipto2580@gmail.com](mailto:banerjeesudipto2580@gmail.com)
+* 💻 GitHub: https://github.com/vulnerable4u
+
+---
+
+⭐ *Interested in building secure systems, discovering vulnerabilities, and contributing to security-focused software.*
