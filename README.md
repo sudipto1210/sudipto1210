@@ -115,4 +115,8 @@ Features:
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/vulnerable4u/vulnerable4u/blob/output/github-contribution-grid-snake.svg)
+
 ⭐ *Interested in building secure systems, discovering vulnerabilities, and contributing to security-focused software.*
