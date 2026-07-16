@@ -56,7 +56,7 @@ Burp Suite • Nmap • Wireshark • Splunk
 
 ## 📂 Projects
 
-### 🔐 SecurePrint
+### 🔐 [SecurePrint](https://github.com/sudipto1210/SecurePrint)
 
 A **privacy-first secure printing platform** for public print shops.
 
@@ -70,7 +70,7 @@ Features:
 
 ---
 
-### 🚨 Women Safety Application
+### 🚨 [Women Safety Application](https://github.com/sudipto1210/Auralis-women-safety-app)
 
 Backend architecture built using **Flask**.
 
@@ -111,7 +111,6 @@ Features:
 
 * 💼 LinkedIn: https://linkedin.com/in/sudipto-banerjee-722614257
 * 📧 Email: [banerjeesudipto2580@gmail.com](mailto:banerjeesudipto2580@gmail.com)
-* 💻 GitHub: https://github.com/vulnerable4u
 
 ---
 
