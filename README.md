@@ -99,11 +99,6 @@ Features:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudipto1210\&theme=tokyonight)
 
----
-
-## 📈 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudipto1210\&theme=tokyo-night)
 
 ---
 
