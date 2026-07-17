@@ -95,15 +95,15 @@ Features:
 
 ## 📊 GitHub Stats
 
-![Sudipto's GitHub stats](https://github-readme-stats.vercel.app/api?username=vulnerable4u\&show_icons=true\&theme=tokyonight)
+![Sudipto's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudipto1210\&show_icons=true\&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vulnerable4u\&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudipto1210\&theme=tokyonight)
 
 ---
 
 ## 📈 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vulnerable4u\&theme=tokyo-night)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudipto1210\&theme=tokyo-night)
 
 ---
 
