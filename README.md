@@ -2,9 +2,9 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student;Application+Security+Enthusiast;Backend+Developer;DevSecOps+Learner\&center=true\&width=500\&height=50)
 
-🔐 Cybersecurity-focused Computer Science undergraduate from India
-💻 Backend Developer passionate about building **secure and resilient systems**
-⚔️ Active learner in **Application Security, Ethical Hacking and DevSecOps**
+* 🔐 Cybersecurity-focused Computer Science undergraduate from India
+* 💻 Backend Developer passionate about building **secure and resilient systems**
+* ⚔️ Active learner in **Application Security, Ethical Hacking and DevSecOps**
 
 ---
 
