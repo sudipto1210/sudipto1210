@@ -86,22 +86,22 @@ Features:
 
 ## 🏆 Achievements
 
-* 🧠 **Hack The Box — Global Rank #955**
-* 🛡 Completed **Practical Ethical Hacking — TCM Security**
-* ☁️ **Google Cloud Skills Boost labs**
-* 🌍 Hult Prize participant
+* 🧠 **Hack The Box** — Global Rank **#955**
+* 🛡 **Practical Ethical Hacking (PEH)** — TCM Security
+* ☁️ **Google Cloud Skills Boost** — Completed hands-on cloud labs
+* 🌍 **Hult Prize** — Participant
 
 ---
 
 ## 📊 GitHub Stats
 
-![Sudipto's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudipto1210\&show_icons=true\&theme=tokyonight)
+![Sudipto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudipto1210\&show_icons=true\&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudipto1210\&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with Me
 
 * 💼 LinkedIn: https://linkedin.com/in/sudipto-banerjee-722614257
 * 📧 Email: [banerjeesudipto2580@gmail.com](mailto:banerjeesudipto2580@gmail.com)
