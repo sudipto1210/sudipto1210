@@ -93,14 +93,6 @@ Features:
 
 ---
 
-## 📊 GitHub Stats
-
-![Sudipto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudipto1210\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudipto1210\&theme=tokyonight)
-
----
-
 ## 📫 Connect with Me
 
 * 💼 LinkedIn: https://linkedin.com/in/sudipto-banerjee-722614257
